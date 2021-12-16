@@ -1230,8 +1230,8 @@
 			"note": "The database user is Pterodactyl and the database is Pterodactyl_db. The host of the database will be located at the bottom of the DB conotainer in portainer.",
 			"platform": "linux",
 			"repository": {
-				"stackfile": "stacks/Pterodactyl.yml",
-				"url": "https://github.com/scalda/rpi-srv/main"
+				"stackfile": "Pterodactyl.yml",
+				"url": "https://github.com/scalda/rpi-srv/blob/main/stacks/"
 			},
 			"title": "Pterodactyl",
 			"type": 3
