@@ -1186,6 +1186,56 @@
 			"title": "Nextcloud",
 			"type": 3
 		},
+        {
+			"categories": [
+				"Cloud",
+				"Productivity",
+				"Tools",
+				"Other",
+				"Web"
+			],
+			"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+			"env": [
+								{
+					"label": "TZ",
+					"name": "TZ"
+				},
+				{
+					"label": "MYSQL_PASSWORD",
+					"name": "MYSQL_PASSWORD"
+				},
+				{
+					"label": "MYSQL_PASSWORD_ROOT_PASSWORD",
+					"name": "MYSQL_PASSWORD_ROOT_PASSWORD"
+				},
+				{
+					"label": "PORT1 - MATCHES TO PORT 80",
+					"name": "PORT"
+				},
+                {
+					"label": "PORT2 - MATCHES TO PORT 443",
+					"name": "PORT"
+				},
+                {
+					"label": "APP_URL",
+					"name": "APP_URL"
+				},
+                {
+					"label": "EMAIL",
+					"name": "APP_SERVICE_AUTHOR"
+				}
+			],
+			"logo": "https://raw.githubusercontent.com/scalda/rpi-srv/master/images/pterry.svg",
+			"name": "Pterodactyl",
+			"note": "The database user is Pterodactyl and the database is Pterodactyl_db. The host of the database will be located at the bottom of the DB conotainer in portainer.",
+			"platform": "linux",
+			"repository": {
+				"stackfile": "stacks/Pterodactyl.yml",
+				"url": "https://raw.githubusercontent.com/scalda/rpi-srv/master"
+			},
+			"title": "Pterodactyl",
+			"type": 3
+		},
 		{
 			"categories": [
 				"Web",
