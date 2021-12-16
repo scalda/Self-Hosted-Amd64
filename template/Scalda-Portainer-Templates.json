@@ -1231,7 +1231,7 @@
 			"platform": "linux",
 			"repository": {
 				"stackfile": "stacks/pterodactyl.yml",
-				"url": "https://raw.githubusercontent.com/scalda/rpi-srv/master"
+				"url": "https://github.com/scalda/rpi-srv/master"
 			},
 			"title": "Pterodactyl",
 			"type": 3
