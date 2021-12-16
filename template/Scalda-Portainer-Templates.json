@@ -3824,7 +3824,7 @@
 				}
 			],
 			"image": "pducharme/unifi-video-controller:latest",
-			"logo": "https://raw.githubusercontent.com/scalda/rpi-srv/master/images/UniFiVideo-icon.png",
+			"logo": "https://raw.githubusercontent.com/scalda/rpi-srv/master/images/unifivideo-icon.png",
 			"name": "UniFi Video",
 			"platform": "linux",
 			"ports": [
