@@ -1225,13 +1225,13 @@
 					"name": "APP_SERVICE_AUTHOR"
 				}
 			],
-			"logo": "https://raw.githubusercontent.com/scalda/rpi-srv/master/images/pterry.svg",
+			"logo": "https://raw.githubusercontent.com/scalda/rpi-srv/main/images/pterry.svg",
 			"name": "Pterodactyl",
 			"note": "The database user is Pterodactyl and the database is Pterodactyl_db. The host of the database will be located at the bottom of the DB conotainer in portainer.",
 			"platform": "linux",
 			"repository": {
 				"stackfile": "stacks/Pterodactyl.yml",
-				"url": "https://raw.githubusercontent.com/scalda/rpi-srv/master"
+				"url": "https://raw.githubusercontent.com/scalda/rpi-srv/main"
 			},
 			"title": "Pterodactyl",
 			"type": 3
