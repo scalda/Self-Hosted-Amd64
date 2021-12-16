@@ -2739,7 +2739,7 @@
 					"name": "WIREGUARD"
 				}
 			],
-			"logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/pritunl/images/pritunl.png",
+			"logo": "https://raw.githubusercontent.com/scalda/rpi-srv/master/images/pritunl.png",
 			"name": "pritunl",
 			"note": "Documentation on this containier can be found here: \u003ca href=https://hub.docker.com/r/goofball222/pritunl\u003ehttps://hub.docker.com/r/goofball222/pritunl\u003c/a\u003e",
 			"platform": "linux",
@@ -2913,7 +2913,7 @@
 			],
 			"description": "A one-of-a-kind resume builder that's not out to get your data. Completely secure, customizable, portable, open-source and free forever.",
 			"image": "amruthpillai/reactive-resume:latest",
-			"logo": "https://raw.githubusercontent.com/scalda/rpi-srv/master/images/reactiveresume.png",
+			"logo": "https://raw.githubusercontent.com/scalda/rpi-srv/master/images/reactive-resume-logo.png",
 			"name": "reactive-resume",
 			"platform": "linux",
 			"ports": [
@@ -3824,7 +3824,7 @@
 				}
 			],
 			"image": "pducharme/unifi-video-controller:latest",
-			"logo": "https://raw.githubusercontent.com/scalda/rpi-srv/master/images/UniFiVideo-logo.png",
+			"logo": "https://raw.githubusercontent.com/scalda/rpi-srv/master/images/UniFiVideo-icon.png",
 			"name": "UniFi Video",
 			"platform": "linux",
 			"ports": [
